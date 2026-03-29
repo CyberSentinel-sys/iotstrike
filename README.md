@@ -13,7 +13,7 @@
 
 **Professional Inquiries:** yechielstudy@gmail.com
 
-**Latest Technical Audit:** The 2026 AI & SEO Infrastructure Breakdown
+**Latest Technical Audit:** [The 2026 AI & SEO Infrastructure Breakdown](https://medium.com/@yechielbiz/semrush-review-your-all-in-one-seo-toolkit-for-digital-dominance-8c7a7bee7d43)
 
 ## 🛡️ Strategic Context & Professional Audit
 
@@ -23,7 +23,7 @@ IoTStrike is a core component of my 2026 research into Sovereign AI Infrastructu
 
 I recently published a comprehensive technical audit on Medium where I discuss how I apply the same "Red Team" mindset used in IoTStrike to build secure, $0-overhead business infrastructures using AI.
 
-👉 Read the Full Audit on Medium
+👉 [Read the Full Audit on Medium](https://medium.com/@yechielbiz/semrush-review-your-all-in-one-seo-toolkit-for-digital-dominance-8c7a7bee7d43)
 
 ## ⚠️ Legal Disclaimer
 
@@ -94,8 +94,8 @@ curl -H "Authorization: Bearer <YOUR_API_KEY>" http://127.0.0.1:8080/api/status
 
 I am actively looking for collaborators interested in AI-Driven Vulnerability Research and AppSec Automation.
 
-- **LinkedIn:** Yechiel Said
-- **Technical Blog:** Yechiel on Medium
+- **LinkedIn:** [Yechiel Said](https://www.linkedin.com/in/yechielsaid/)
+- **Technical Blog:** [Yechiel on Medium](https://www.google.com/search?q=https://medium.com/%40yechielbiz)
 - **Email:** yechielstudy@gmail.com
 
 ---
