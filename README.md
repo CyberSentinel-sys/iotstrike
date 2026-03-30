@@ -101,3 +101,7 @@ I am actively looking for collaborators interested in AI-Driven Vulnerability Re
 ---
 
 IoTStrike — Part of the CyberSentinel Ecosystem | 2026
+
+https://github.com/user-attachments/assets/80db3b92-078d-44f3-adb3-26ffdc8b7749
+
+
